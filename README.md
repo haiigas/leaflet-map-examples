@@ -1,4 +1,4 @@
-### JavaScript library for interactive maps
+### Library for interactive maps
 
 Demo
 - <a href="https://demo.teknowebapp.com/leaflet/full-maps.html">Full Maps</a>
