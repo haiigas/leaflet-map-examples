@@ -23,9 +23,9 @@ This project showcases how to use LeafletJS for different map use-cases. The exa
 
 2. Open any of the HTML files in your browser:
 
-- `full-maps.html` – Basic map display
-- `multiple-marker.html` – Multiple markers with popups
-- `current-location.html` – Geolocation-based map view
+   - `full-maps.html` – Basic map display
+   - `multiple-marker.html` – Multiple markers with popups
+   - `current-location.html` – Geolocation-based map view
 
 ## Customization
 
